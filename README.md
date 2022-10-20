@@ -40,3 +40,17 @@ I would like to note that for Deliverable 2 & 3, my clean DataFrame "wiki_movies
 This was done in an effort to remove superlative/uncleaned data and improve readability.
 
 The module examples retained 'Release date' along with 'release_date' and 'Budget' along with 'budget' in their version of "wiki_movies_df".
+
+## Software Used
+
+Python v. 3.7.13
+  Pandas v. 1.3.5
+  Numpy v. 1.21.5
+  JSON
+  Sqlalchemy v. 1.4.39
+  Psycopg2 v. 2.9.4
+  
+Jupyter Notebook v. 6.4.11
+
+PgAdmin4 v. 6.12
+  PostgreSQL 11
