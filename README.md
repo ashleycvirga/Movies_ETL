@@ -23,7 +23,7 @@ I have refactored code from the module to create a singular function that takes 
 
 ### 4: Create the Movie Database
 
-[ETL_create_database.ipynb]()
+[ETL_create_database.ipynb](https://github.com/ashleycvirga/Movies_ETL/blob/71533002262359b3af77c249b5306929f64d6e86/ETL_create_database.ipynb)
 
 Confirmed the 'movies' table has 6,052 rows.
 
@@ -35,8 +35,8 @@ Confirmed the 'ratings' table has 26,024,289 rows.
 
 ## Notes
 
-I would like to note that for Deliverable 2 & 3, my clean DataFrame "wiki_movies_df" has dropped the original uncleaned columns for 'Box Office', 'Budget', 'Release date', and 'Running time' as they were replaced with the new clean data columns 'box_office', 'budget', 'release_date', and 'running_time' respectively.
+I would like to note that for Deliverable 2 & 3, my clean DataFrame "wiki_movies_df" has dropped the original uncleaned columns for 'Box Office', , 'Release date', and 'Running time' as they were replaced with the new clean data columns 'box_office', 'budget', 'release_date', and 'running_time' respectively.
 
 This was done in an effort to remove superlative/uncleaned data and improve readability.
 
-This does differ from the Module 8 Challenge Instructions examples. 
+The module examples retained 'Release date' along with 'release_date' and 'Budget' along with 'budget' in their version of "wiki_movies_df".
