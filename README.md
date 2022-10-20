@@ -17,7 +17,7 @@ The goal of this project is to provide Amazing Prime with an automated ETL pipel
 
 ## Notes
 
-I would like to note that for Deliverable 2, my clean DataFrame "wiki_movies_df" has dropped the original uncleaned columns for 'Box Office','Budget', 'Release date', and 'Running time' as they were replaced with the new clean data columns 'box_office','budget', 'release_date', and 'running_time' respectively.
+I would like to note that for Deliverable 2, my clean DataFrame "wiki_movies_df" has dropped the original uncleaned columns for 'Box Office', 'Budget', 'Release date', and 'Running time' as they were replaced with the new clean data columns 'box_office','budget', 'release_date', and 'running_time' respectively.
 
 This was done in an effort to remove superlative data, uncleaned data and improve readability.
 
